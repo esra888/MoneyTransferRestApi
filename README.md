@@ -1,4 +1,4 @@
-# Money transfer Rest API :moneybag:
+# Money transfer Rest API 
 
 A banking API allows you to transfer money between two accounts with following rules in below.
 
